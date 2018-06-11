@@ -16,7 +16,7 @@
 (function(root) {
 
     /**
-     *   The Mask class defines a 2D template form which sprites can be generated.
+     *   The Mask class defines a 2D template from which sprites can be generated.
      *
      *   @class Mask
      *   @constructor
